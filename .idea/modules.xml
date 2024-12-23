@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Formacao-Java-Dio.iml" filepath="$PROJECT_DIR$/.idea/Formacao-Java-Dio.iml" />
       <module fileurl="file://$PROJECT_DIR$/Modelando Iphone/Modelando Iphone.iml" filepath="$PROJECT_DIR$/Modelando Iphone/Modelando Iphone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafio-dio-banco/desafio-dio-banco.iml" filepath="$PROJECT_DIR$/desafio-dio-banco/desafio-dio-banco.iml" />
     </modules>
   </component>
 </project>
