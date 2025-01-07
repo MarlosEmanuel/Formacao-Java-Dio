@@ -2,5 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GradleCourse" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/curso-dio-intro-java-i-o" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exceptions-java" vcs="Git" />
   </component>
 </project>
